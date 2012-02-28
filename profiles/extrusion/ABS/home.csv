@@ -2,5 +2,5 @@ Format is tab separated home settings.
 _Name                          	Value
 WindowPosition	700+0
 Open File for Home	
-Activate Home	True
+Activate Home	False
 Name of Home File:	home.gcode
