@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import math
 
-h = 0.33
+h = 0.30
 feed = 10
 
 w = h * 1.5

@@ -2,6 +2,6 @@ Format is tab separated smooth settings.
 _Name                          	Value
 WindowPosition	700+0
 Open File for Smooth	
-Activate Smooth	False
+Activate Smooth	True
 Layers From (index):	1
-Maximum Shortening over Width (float):	1.2
+Maximum Shortening over Width (float):	1.3
